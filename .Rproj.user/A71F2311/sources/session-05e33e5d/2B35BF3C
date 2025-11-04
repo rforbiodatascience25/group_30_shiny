@@ -1,0 +1,26 @@
+{
+    "id": "2B35BF3C",
+    "path": "/cloud/project/virtual_central_dogma.R",
+    "project_path": "virtual_central_dogma.R",
+    "type": "r_source",
+    "hash": "873686347",
+    "contents": "",
+    "dirty": false,
+    "created": 1762244340828.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,21",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1762249225,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1762249225712,
+    "read_only": false,
+    "read_only_alternatives": []
+}
