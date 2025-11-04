@@ -4,7 +4,7 @@ library("bslib")
 library("ggplot2")
 
 # Load needed functions
-source(file = "app_functions.R")
+source(file = "global.R")
 
 # Run the frontend user interface ui.R
 source(file = "ui.R")
